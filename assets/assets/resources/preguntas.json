@@ -1,0 +1,306 @@
+{
+    "preguntas": [
+        {
+            "orden": 1,
+            "textPregunta": "¿Existe algún tipo de compromiso formal y por escrito, por parte de la dirección de la empresa, en donde se manifieste la igualdad como principio estratégico para la compañía? (Por ejemplo en el plan de empresa, en la definición de su misión, visión y valores, en su memoria de actividades, en su página web, etc…)",
+            "respuestas": [
+                {
+                    "respuestaId": 1,
+                    "respuestaTexto": "Sí"
+                },
+                {
+                    "respuestaId": 2,
+                    "respuestaTexto": "No"
+                }
+            ],
+            "respuestaCorrectaId": 1
+        },
+        {
+            "orden": 2,
+            "textPregunta": "¿Existe una proporción equilibrada entre sexos en la plantilla total?",
+            "respuestas": [
+                {
+                    "respuestaId": 1,
+                    "respuestaTexto": "Igual (relación 60/40)"
+                },
+                {
+                    "respuestaId": 2,
+                    "respuestaTexto": "Más hombres (Más del 60%)"
+                },
+                {
+                    "respuestaId": 3,
+                    "respuestaTexto": "Más mujeres (Más del 60%)"
+                }
+            ],
+            "respuestaCorrectaId": 1
+        },
+        {
+            "orden": 3,
+            "textPregunta": "¿Cómo es la distribución de mujeres y hombres en puestos directivos?",
+            "respuestas": [
+                {
+                    "respuestaId": 1,
+                    "respuestaTexto": "Igual (relación 60/40)"
+                },
+                {
+                    "respuestaId": 2,
+                    "respuestaTexto": "Más hombres"
+                },
+                {
+                    "respuestaId": 3,
+                    "respuestaTexto": "Más mujeres"
+                }
+            ],
+            "respuestaCorrectaId": 1
+        },
+        {
+            "orden": 4,
+            "textPregunta": "¿Cómo es la distribución de mujeres y hombres en puestos de mandos intermedios?",
+            "respuestas": [
+                {
+                    "respuestaId": 1,
+                    "respuestaTexto": "Igual (relación 60/40)"
+                },
+                {
+                    "respuestaId": 2,
+                    "respuestaTexto": "Más mujeres"
+                },
+                {
+                    "respuestaId": 3,
+                    "respuestaTexto": "Más hombres"
+                }
+            ],
+            "respuestaCorrectaId": 1
+        },
+        {
+            "orden": 5,
+            "textPregunta": "¿Cómo es la distribución de mujeres y hombres en puestos técnicos?",
+            "respuestas": [
+                {
+                    "respuestaId": 1,
+                    "respuestaTexto": "Igual (relación 60/40)"
+                },
+                {
+                    "respuestaId": 2,
+                    "respuestaTexto": "Más mujeres"
+                },
+                {
+                    "respuestaId": 3,
+                    "respuestaTexto": "Más hombres"
+                }
+            ],
+            "respuestaCorrectaId": 1
+        },
+        {
+            "orden": 6,
+            "textPregunta": "¿Cómo es la distribución de mujeres y hombres en puestos administrativos?",
+            "respuestas": [
+                {
+                    "respuestaId": 1,
+                    "respuestaTexto": "Igual (relación 60/40)"
+                },
+                {
+                    "respuestaId": 2,
+                    "respuestaTexto": "Más mujeres"
+                },
+                {
+                    "respuestaId": 3,
+                    "respuestaTexto": "Más hombres"
+                }
+            ],
+            "respuestaCorrectaId": 1
+        },
+        {
+            "orden": 7,
+            "textPregunta": "¿Cómo es la distribución de mujeres y hombres en puestos de producción?",
+            "respuestas": [
+                {
+                    "respuestaId": 1,
+                    "respuestaTexto": "Igual (relación 60/40)"
+                },
+                {
+                    "respuestaId": 2,
+                    "respuestaTexto": "Más mujeres"
+                },
+                {
+                    "respuestaId": 3,
+                    "respuestaTexto": "Más hombres"
+                }
+            ],
+            "respuestaCorrectaId": 1
+        },
+        {
+            "orden": 8,
+            "textPregunta": "¿Cómo es la distribución de mujeres y hombres en puestos de mantenimiento?",
+            "respuestas": [
+                {
+                    "respuestaId": 1,
+                    "respuestaTexto": "Igual (relación 60/40)"
+                },
+                {
+                    "respuestaId": 2,
+                    "respuestaTexto": "Más mujeres"
+                },
+                {
+                    "respuestaId": 3,
+                    "respuestaTexto": "Más hombres"
+                }
+            ],
+            "respuestaCorrectaId": 1
+        },
+        {
+            "orden": 9,
+            "textPregunta": "Se utiliza lenguaje no sexista en la elaboración y redacción de comunicación interna y externa de la empresa (documentos internos, página web, folletos informativos, correos electrónicos…)",
+            "respuestas": [
+                {
+                    "respuestaId": 1,
+                    "respuestaTexto": "Sí"
+                },
+                {
+                    "respuestaId": 2,
+                    "respuestaTexto": "No"
+                }
+            ],
+            "respuestaCorrectaId": 1
+        },
+        {
+            "orden": 10,
+            "textPregunta": "En los procesos de selección, las pruebas, entrevistas, test, cuestionarios, etc… ¿la valoración se realiza en base a procedimientos que midan las competencias de la persona de forma objetiva?",
+            "respuestas": [
+                {
+                    "respuestaId": 1,
+                    "respuestaTexto": "Sí se puntúa cada candidatura en base a criterios definidos y totalmente objetivos"
+                },
+                {
+                    "respuestaId": 2,
+                    "respuestaTexto": "No se tiene en cuenta, la selección se realiza en base a la percepción general en la entrevista personal"
+                }
+            ],
+            "respuestaCorrectaId": 1
+        },
+        {
+            "orden": 11,
+            "textPregunta": "¿Los contratos con carácter temporal de la empresa recaen más en los hombres o en las mujeres?",
+            "respuestas": [
+                {
+                    "respuestaId": 1,
+                    "respuestaTexto": "Existe una proporción similar en la contratación temporal entre hombres y mujeres de la empresa (40%-60%)"
+                },
+                {
+                    "respuestaId": 2,
+                    "respuestaTexto": "Las mujeres representan más del 60% de los contratos temporales"
+                },
+                {
+                    "respuestaId": 3,
+                    "respuestaTexto": "Los hombres representan más del 60% de los contratos temporales"
+                }
+            ],
+            "respuestaCorrectaId": 1
+        },
+        {
+            "orden": 12,
+            "textPregunta": "El proceso de promoción profesional en la empresa es:",
+            "respuestas": [
+                {
+                    "respuestaId": 1,
+                    "respuestaTexto": "Abierto: se comunica a toda la plantilla para que se presenten candidaturas voluntarias para la promoción"
+                },
+                {
+                    "respuestaId": 2,
+                    "respuestaTexto": "Cerrado: la dirección de la empresa propone a la persona más adecuada para el puesto"
+                }
+            ],
+            "respuestaCorrectaId": 1
+        },
+        {
+            "orden": 13,
+            "textPregunta": "¿Existe en la empresa alguna medida de conciliación relativa a flexibilidad horaria de entrada y salida?",
+            "respuestas": [
+                {
+                    "respuestaId": 1,
+                    "respuestaTexto": "Sí"
+                },
+                {
+                    "respuestaId": 2,
+                    "respuestaTexto": "No"
+                }
+            ],
+            "respuestaCorrectaId": 1
+        },
+        {
+            "orden": 14,
+            "textPregunta": "¿Existe en la empresa alguna medida de conciliación que incluya el teletrabajo?",
+            "respuestas": [
+                {
+                    "respuestaId": 1,
+                    "respuestaTexto": "Sí"
+                },
+                {
+                    "respuestaId": 2,
+                    "respuestaTexto": "No"
+                }
+            ],
+            "respuestaCorrectaId": 1
+        },
+        {
+            "orden": 15,
+            "textPregunta": "¿Existe en la empresa alguna medida de conciliación con reducciones de jornada más allá de las establecidas por ley?",
+            "respuestas": [
+                {
+                    "respuestaId": 1,
+                    "respuestaTexto": "Sí"
+                },
+                {
+                    "respuestaId": 2,
+                    "respuestaTexto": "No"
+                }
+            ],
+            "respuestaCorrectaId": 1
+        },
+        {
+            "orden": 16,
+            "textPregunta": "¿Existe en la empresa alguna medida de conciliación que incluya permisos retribuidos para cuidado de menores y personas a cargo?",
+            "respuestas": [
+                {
+                    "respuestaId": 1,
+                    "respuestaTexto": "Sí"
+                },
+                {
+                    "respuestaId": 2,
+                    "respuestaTexto": "No"
+                }
+            ],
+            "respuestaCorrectaId": 1
+        },
+        {
+            "orden": 17,
+            "textPregunta": "La mayoría de la formación de la empresa es:",
+            "respuestas": [
+                {
+                    "respuestaId": 1,
+                    "respuestaTexto": "Dentro de la jornada laboral"
+                },
+                {
+                    "respuestaId": 2,
+                    "respuestaTexto": "Fuera de la jornada laboral"
+                }
+            ],
+            "respuestaCorrectaId": 1
+        },
+        {
+            "orden": 18,
+            "textPregunta": "¿Dispone la empresa de protocolo de actuación en caso de acoso sexual o acoso por razón de sexo?",
+            "respuestas": [
+                {
+                    "respuestaId": 1,
+                    "respuestaTexto": "Sí"
+                },
+                {
+                    "respuestaId": 2,
+                    "respuestaTexto": "No"
+                }
+            ],
+            "respuestaCorrectaId": 1
+        }
+    ]
+}
